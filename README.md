@@ -10,3 +10,6 @@ Shaft just slides into coupling, for easy removal to change cones.
 
 
 ![WIN_20240501_12_17_50_Pro](https://github.com/carl1961/Arduino-Nano-Tesla-Coil-Winder/assets/3056821/345c564f-b55a-48c3-8330-f9bcad520949)
+
+For Fusion 360 
+https://www.thingiverse.com/thing:6604070

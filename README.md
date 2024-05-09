@@ -7,7 +7,7 @@ Software used is  Modified for Nextion enhanced 3.5 inch NX4832K035-011 screen I
 attached firmeware from Mr Innovative, I commented in the code from what I learned (I think)
 
 
-Original code from attached
+Original code from Mr Innovative (for Nextion 2.8 TFT)
 
 https://drive.google.com/file/d/1WY4mIK8XG3_ycVTErPh_xCwgQd9zHItr/view   Arduino
 

@@ -13,6 +13,8 @@ https://drive.google.com/file/d/1WY4mIK8XG3_ycVTErPh_xCwgQd9zHItr/view   Arduino
 
 https://drive.google.com/file/d/1tuVQruj4Ivzi-zP1gk5Kpdj8jmSq7Bu4/view   HMI
 
+Gsuite_v1.4_3.rar  Is programe to make coil to gcode, if you want to use 3dprinter software to run the Machine
+
 
 ![Tesla-Coil-Winder v1](https://github.com/carl1961/Arduino-Nano-Tesla-Coil-Winder/assets/3056821/7952a30b-9bc7-4718-9f06-ba07dac80ae2)
 

@@ -1,4 +1,4 @@
-# Arduino-Nano-Tesla-Coil-Winder
+# Arduino-Uno-Tesla-Coil-Winder
 Tesla Coil Winder
 Still Building this thing
 Tested with fishing string .41mm
@@ -27,3 +27,22 @@ Shaft just slides into coupling, for easy removal to change cones.
 
 For Fusion 360 
 https://www.thingiverse.com/thing:6604070
+
+I have tryed every software out there and they have issues. mainly they only work when tuned in to one setting, and they get bragged on real BIG for their video's
+
+Then I found Found a Excellant Program for the  Arduino-Uno-Tesla-Coil-Winder, rduart, doing a Awesome work      https://github.com/rduart/TelsaCoilWinder
+I did have to dial it in to work with the 2mm pitch leadscrew setup. and added some background pictures, and enlarged the font for my eye's.
+Still so far only testing with .4mm nylon fishing string.
+
+
+
+![image](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/7c1e7806-d7b3-450c-959a-70896e5af571)
+
+![image](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/a1ba37c4-bf55-405c-a1b1-219d66a1a6ff)
+
+![image](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/4de50d40-40ad-4629-ab0a-dbdb733076f0)
+
+![image](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/a2d6e4d4-b841-4c92-8ff2-fb4c9e1ed09a)
+
+
+

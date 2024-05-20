@@ -44,5 +44,13 @@ Still so far only testing with .4mm nylon fishing string.
 
 ![image](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/a2d6e4d4-b841-4c92-8ff2-fb4c9e1ed09a)
 
+![331854834-7b1ee994-3767-4d57-8e13-8b2f83012a42](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/0cdb0ec3-4359-4cac-94d1-3e2dca023736)
+
+![331854813-9d2d7ce8-59d7-4b9d-a038-71b6939ca693](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/a4eec5c2-acf5-4f93-937c-e8667117181e)
+
+![331854786-a8c9cd06-c252-4e9a-81ed-586bc999cc4b](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/c95f3893-0a6c-421b-ae97-a4a0ce4a612f)
+
+
+
 
 

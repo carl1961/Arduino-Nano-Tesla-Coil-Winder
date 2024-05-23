@@ -34,8 +34,9 @@ Then I found Found a Excellant Program for the  Arduino-Uno-Tesla-Coil-Winder, r
 I did have to dial it in to work with the 2mm pitch leadscrew setup. and added some background pictures, and enlarged the font for my eye's.
 Still so far only testing with .4mm nylon fishing string.
 
-
 START
+
+
 ![Start](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/8107b871-5e3e-4198-af6a-a6146f2c71fd)
 
 Machine Setup

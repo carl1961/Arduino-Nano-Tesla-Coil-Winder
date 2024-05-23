@@ -35,20 +35,32 @@ I did have to dial it in to work with the 2mm pitch leadscrew setup. and added s
 Still so far only testing with .4mm nylon fishing string.
 
 
+START
+![Start](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/8107b871-5e3e-4198-af6a-a6146f2c71fd)
 
-![image](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/7c1e7806-d7b3-450c-959a-70896e5af571)
+Machine Setup
 
-![image](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/a1ba37c4-bf55-405c-a1b1-219d66a1a6ff)
+![Machine Setup](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/8c159a38-25c6-4977-8cde-5c0ac30ff911)
 
-![image](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/4de50d40-40ad-4629-ab0a-dbdb733076f0)
+Coil Setup
 
-![image](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/a2d6e4d4-b841-4c92-8ff2-fb4c9e1ed09a)
+![Coil Setup](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/f5d5ab21-07d2-425c-92db-1cc7258c7cca)
+
+Control
+
+![Control](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/7b48db6d-91cd-4f84-bd72-b65752a4dd34)
+
 
 ![331854834-7b1ee994-3767-4d57-8e13-8b2f83012a42](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/0cdb0ec3-4359-4cac-94d1-3e2dca023736)
 
 ![331854813-9d2d7ce8-59d7-4b9d-a038-71b6939ca693](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/a4eec5c2-acf5-4f93-937c-e8667117181e)
 
 ![331854786-a8c9cd06-c252-4e9a-81ed-586bc999cc4b](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/c95f3893-0a6c-421b-ae97-a4a0ce4a612f)
+
+Added Stepper controlled Spool Winder, can also be used a tenstioner, by appling varable control voltage of 0 - 2 Volts on one of the coil windings 2 Volts likly too much.
+
+![Tesla-Coil-Winder v82](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/be5c8732-8e61-49ce-ab19-09241d2631bc)
+
 
 
 

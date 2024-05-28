@@ -116,6 +116,10 @@ A DC motor Controller I already had.
 ![5149JcvP2oL _AC_SL1100_](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/b694d6c5-ab77-40e2-9838-9ea87d2e087f)
 
 
+![WIN_20240528_13_50_57_Pro](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/96112b23-b7a0-4a2e-8323-bcb60300dc04)
+
+
+![WIN_20240528_13_49_55_Pro](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/4adf3578-d98b-4245-8fcc-53f36682bf29)
 
 
 

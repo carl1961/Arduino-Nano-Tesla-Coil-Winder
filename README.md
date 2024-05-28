@@ -64,6 +64,23 @@ Added Stepper controlled Spool Winder, can also be used a tenstioner, by appling
 
 
 
+# UnWinder
+
+Software used to drive Stepper  polihedron przemu Shacker Program
+https://github.com/polihedron/TM1637_Timer_RPM-stepper_motor
+
+![WIN_20240528_12_57_33_Pro](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/77e91386-08f3-4136-b56a-a97a74eafa37)
+
+
+![WIN_20240528_12_57_19_Pro](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/449cb2e7-67de-4ec1-a94c-9815c50f52a7)
+
+![WIN_20240528_12_57_45_Pro](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/2386d210-55d8-4fb2-a7d0-33c5a70617b6)
+
+![WIN_20240528_13_02_17_Pro](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/18d9d03c-125e-45b5-a782-1aac466026c9)
+
+
+
+
 
 
 

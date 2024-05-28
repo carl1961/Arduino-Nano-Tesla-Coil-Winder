@@ -1,7 +1,9 @@
 # Arduino-Uno-Tesla-Coil-Winder
 Tesla Coil Winder
 Still Building this thing
-Tested with fishing string .41mm
+Tested with fishing string .41mm and thread .15mm
+
+https://rumble.com/v4y38a9-tesla-coil-winding-and-unwinding-machine.html
 
 Software used is  Modified for Nextion enhanced 3.5 inch NX4832K035-011 screen I had
 attached firmeware from Mr Innovative, I commented in the code from what I learned (I think)

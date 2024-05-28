@@ -69,6 +69,25 @@ Added Stepper controlled Spool Winder, can also be used a tenstioner, by appling
 Software used to drive Stepper  polihedron przemu Shacker Program
 https://github.com/polihedron/TM1637_Timer_RPM-stepper_motor
 
+Schematic ( in   File on GitHub )
+
+![image](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/b4ae8239-c6f6-4209-8ba8-ed9964261e0b)   
+
+
+
+
+I used a Ardunio Nono Terminal shield, Stepper Driver Module, KY-040 Encoder Module, TM1637 Display  and a Stepdown 5V Module wired as in Schematic.
+I did not use any capacitors as shown in Schematic, Just all modules.
+
+![Screenshot 2024-05-22 152216](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/90fcdc0b-48b8-47a4-b5c4-055a612d1180)  ![Screenshot 2024-05-27 062302](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/60b07cd1-3177-441c-ab5c-0b2e625b008b)
+
+![image](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/d31ee118-24e4-4c4b-be27-ac5a8ee6f0a7)  ![image](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/0083b597-abfe-46e4-b754-2c03d6a55c75)
+
+![image](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/70576122-0e5a-41c0-8583-ad2850285f1b)  ![image](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/ca4c8117-bc4f-4e52-81d2-822669c833e8)
+
+
+
+
 ![WIN_20240528_12_57_33_Pro](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/77e91386-08f3-4136-b56a-a97a74eafa37)
 
 

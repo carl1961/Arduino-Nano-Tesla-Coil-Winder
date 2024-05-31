@@ -124,7 +124,7 @@ A DC motor Controller I already had.
 ![WIN_20240528_13_49_55_Pro](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/4adf3578-d98b-4245-8fcc-53f36682bf29)
 
 
-First Coil, after many test runs and fintuning the winding machine. already slaped one coat of varnishing.
+First Coil, after many test runs and fine tuning the winding machine. Using rduart, Awesome Program. Already slaped one coat of varnishing.
 
 
 ![first coil](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/86059fae-5b82-40db-8f89-89f3abab0278)

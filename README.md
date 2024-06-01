@@ -68,8 +68,8 @@ Added Stepper controlled Spool Winder, can also be used a tenstioner, by appling
 
 # UnWinder
 
-Software used to drive Stepper  polihedron przemu Shacker Program
-https://github.com/polihedron/TM1637_Timer_RPM-stepper_motor
+Software used to drive Stepper  polihedron przemu custom Program made for Unwinder
+[https://github.com/polihedron/TM1637_Timer_RPM-stepper_motor](https://github.com/carl1961/TM1637_RPM-stepper_motor)
 
 Schematic ( in   File on GitHub )
 

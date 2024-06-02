@@ -129,4 +129,7 @@ First Coil, after many test runs and fine tuning the winding machine. Using rdua
 
 ![first coil](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/86059fae-5b82-40db-8f89-89f3abab0278)
 
+Getting there!
+
+![WIN_20240602_16_23_40_Pro](https://github.com/carl1961/Arduino-Uno-Tesla-Coil-Winder/assets/3056821/58c7eb51-bfc4-48cf-86a2-a54f453bd04c)
 
